@@ -1,0 +1,14 @@
+446495f7cb492a4d4778e69cb88f89ce *DESCRIPTION
+8b9587fa418165207d51598a5b80b7ea *LICENSE
+2a602b2e8d467f5d196259bc3b02f67d *NAMESPACE
+41ac9aaf4185176b29ba311c6a0579b7 *R/get_selic_rate.R
+85d768733db4925ab9f04cd65fcffdef *R/get_unemployment.R
+26f5b5615da7ccb39129256ab7035a8b *R/globals.R
+28e5c7165086620de80d90e58459939c *R/plot_selic_rate.R
+9bf9585ef8d09111c7acd90fdadf0b11 *R/plot_unemployment.R
+6aedee75cf85e12d057c06410b9a8215 *R/zzz.R
+229dba27f63f33086f3483674ffc1c0c *README.md
+9678d3d322863f452e663200144ec3c2 *man/get_selic_rate.Rd
+03914163a71bbd6ab8421cc9b475012f *man/get_unemployment.Rd
+f456aa5121a6c96066bae24952d61393 *man/plot_selic_rate.Rd
+becd1c5c78018c1efde2007596a63565 *man/plot_unemployment.Rd
